@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Tsepang Teele
+- **Date:13 July 2025
+- **Current Role/Position: Small Business Owner & Student
+- **Field of Interest: Front End Developer & UI/UX designer.
 
 ### Part 1: Self-Assessment Reflection
 
@@ -29,19 +29,20 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - The ability to be creative is very important to me.
+    - Team work, communication, support & positivity.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Ive looked up front-end development.
+    - I'm interested in web development & mobile app development.
+   
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+
+These industries align with my skills due to the creative aspect that they have, I like the idea of creating something out of nothing. At the moment I understand HTML the most but slowly getting accustomed to CSS. This is the first time I've ever done any kind of coding but I know as I continue to practive I'll keep improving.
+
 
 ### Part 3: SMART Career Goals
 
@@ -49,32 +50,42 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
+    - Creating a website for my small business which will not only save me costs but I can customise it myself instead of using online templates.
+    - Potentially finding remote freelancing opputunities that will give me the freedom to work anywhere in  the world.
+    
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - As I perfect my skills, then potentially teaching other people how to programme.
+    - Possibly collaborating with other developers to create an mobile app.
+    - UI/UX developer or designer.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Using external resources as well as the ones that are given to understand aspects of coding that I dont understand.
+    - Working with classmates who might understand to get a better understanding myself. Or just problem solving woth classmates.
+    - Consulting with our coach about the parts I'm finding hard to understand.
+
+    
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Having some kind of mentor who can guide me through the industry and possibly give me tips.
+    - Expanding my developer knowledge beyond html, css and javascript.
+    - Potentially learning python.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Having come from a background where theory was the main focus and reading tons of information was a core element, getting used to coding sometimes feels like im learning a second language.
+    - It's been taking me longer than I would like to get through the course material because trying to conceptualise whats being explained is a little difficult.
+    - Practice is a big one but also looking into external resources.
+    - 
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Networking in this industry is important and having a solid portfolio can help me get into spaces that might have been difficult because I dont have a computer science degree for example.
+    - Learning other coding languages after javascript would be cool
 
 ### Submission
 
